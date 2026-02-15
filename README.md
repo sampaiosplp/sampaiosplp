@@ -1,4 +1,4 @@
-## Diego# 👩🏻‍💻 
+## Diego# 
 
 **`Desenvolvedor FullStack`**
 
