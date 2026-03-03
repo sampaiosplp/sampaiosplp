@@ -35,22 +35,13 @@ Me chamo Diego Laurence Sampaio Johson, tenho 20 anos e sou natural de Roraima. 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-     ![Amurang's Github stats](hhtps//github-readme-stats.vercel.app/api?
-username=sampaiosplp&theme=sampaiosplp&incluide_all_comits=true&local=pt-br)
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampaiosplp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+![GitHub Stats Pie Chart](https://quickchart.io/chart?c={
+  type:'pie',
+  data:{
+    labels:['JavaScript','Python','C','Outros'],
+    datasets:[{
+      data:[40,30,20,10],
+      backgroundColor:['#f1e05a','#3572A5','#555555','#cccccc']
+    }]
+  }
+})
