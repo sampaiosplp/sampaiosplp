@@ -33,15 +33,3 @@ Me chamo Diego Laurence Sampaio Johson, tenho 20 anos e sou natural de Roraima. 
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-### 📊 Estatísticas
-
-![GitHub Stats Pie Chart](https://quickchart.io/chart?c={
-  type:'pie',
-  data:{
-    labels:['JavaScript','Python','C','Outros'],
-    datasets:[{
-      data:[40,30,20,10],
-      backgroundColor:['#f1e05a','#3572A5','#555555','#cccccc']
-    }]
-  }
-})
